@@ -15,18 +15,18 @@ kramdown:
 # so be sure to set them if your theme uses them.
 #
 # Site settings
-author: Shujin Wu
-title: Shujin Wu
+author: Mohammed Ali
+title: Mohammed Ali
 header-img: img/home-bg.jpg
 
 # This will be used as your sites meta description as well
-description: "Suzy Wu's blog"
+description: "Mohammed Ali's blog"
 
 baseurl: ""
 
 # twitter_username: SBootstrap
-github_username:  SuzyWu2014
-email: your-email@yourdomain.com
+github_username:  xc0d3rz
+email:me@xc0d3rz.io
 copyright_name: Shujin Wu
 # facebook_username:  IronSummitMedia
 
@@ -40,7 +40,7 @@ tagline: Site Tagline
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://SuzyWu2014.github.io
+production_url : http://xc0d3rz.github.io
 
 gems: [jekyll-sitemap, jekyll-paginate, jekyll-feed]
 
